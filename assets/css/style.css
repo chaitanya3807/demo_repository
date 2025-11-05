@@ -1,0 +1,15 @@
+div{
+    margin: 200px;
+    padding: 20px;
+    background-color: bisque;
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+}
